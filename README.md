@@ -62,6 +62,7 @@ Inverted Search Project – Word Search Using Hash Table and Linked Lists
 **Input Files:**
 
 file1.txt → hi welcome
+
 file2.txt → hi hello
 
 Database Format:
