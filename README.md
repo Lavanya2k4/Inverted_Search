@@ -67,7 +67,9 @@ file2.txt → hi hello
 Database Format:
 
 #h;hi;2;file1.txt;1;file2.txt;1;#
+
 #w;welcome;1;file1.txt;1;#
+
 #h;hello;1;file2.txt;1;#
 
 **How It Works**
